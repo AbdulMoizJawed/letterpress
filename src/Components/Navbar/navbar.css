@@ -1,0 +1,44 @@
+.navbar{
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 33px ;
+    height: 50px;
+    background: transparent;
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navList{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #ff402b;
+}
+
+.list{
+    margin-right: 100px;
+}
+
+.navButtonContainer{
+    /* border: 2px solid #ff402b; */
+    height: 70%;
+    width: 150px;
+    color: #f0e8d7;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.navButton{
+    height: 100%;
+    width: 100%;
+    background-color: #ff402b ;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    
+}
